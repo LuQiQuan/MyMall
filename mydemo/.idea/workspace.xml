@@ -6,7 +6,10 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9d30741-b8f8-4c7f-ad5c-a999706078d0" name="Default Changelist" comment="" />
+    <list default="true" id="b9d30741-b8f8-4c7f-ad5c-a999706078d0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,8 +19,12 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -27,6 +34,7 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectId" id="2FQQDWXFWMEyJH1Orcj8EuM0aye" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -35,6 +43,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
@@ -149,17 +158,34 @@
       <workItem from="1664421713767" duration="6256000" />
       <workItem from="1665215246260" duration="235000" />
       <workItem from="1665215518999" duration="91000" />
+      <workItem from="1665217219781" duration="199000" />
     </task>
+    <task id="LOCAL-00001" summary="Modified by Luqiquan&#10;Modify point test">
+      <created>1665217362824</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665217362824</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Modified by Luqiquan&#10;Modify point test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modified by Luqiquan&#10;Modify point test" />
   </component>
   <component name="WindowStateProjectService">
     <state x="46" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1664421943496">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="46" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1664421943496" />
+    <state x="263" y="0" key="CommitChangelistDialog2" timestamp="1665217361994">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="263" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1665217361994" />
     <state x="437" y="109" key="FileChooserDialogImpl" timestamp="1665215350208">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -232,10 +258,18 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1665215487408" />
-    <state x="337" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1665215518006">
+    <state x="233" y="77" key="Vcs.Push.Dialog.v2" timestamp="1665217388598">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="337" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1665215518006" />
+    <state x="233" y="77" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1665217388598" />
+    <state x="337" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1665217219412">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1665217219412" />
+    <state x="364" y="143" key="git4idea.merge.GitPullDialog" timestamp="1665217319003">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="364" y="143" key="git4idea.merge.GitPullDialog/0.0.1280.680@0.0.1280.680" timestamp="1665217319003" />
     <state x="28" y="0" key="new project wizard" timestamp="1664442669191">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
